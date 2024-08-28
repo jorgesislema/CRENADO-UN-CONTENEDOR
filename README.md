@@ -104,9 +104,12 @@ Usa cat para crear y editar el archivo mongo.sh:
 >sudo docker exec -it monguito bash
 
 Presiona Ctrl + D para finalizar la edición y guardar el archivo.
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
 Conclusión
 
-__________________________________________________________________________________________________________________________________________________________________________________________
 Ahora, con el script mongo.sh configurado y ejecutado, tu contenedor de MongoDB debería estar en funcionamiento. Puedes usar este contenedor para tus necesidades de desarrollo y manipulación de bases de datos MongoDB.
 
 Realizado por Jorge Sislema
